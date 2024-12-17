@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Edwin Garcia I am a TripleTen alumni where I have learned various data science skills. 
+Some of the skills include working with data in Python and machine learning in Python.
 <!--
 **edwin-g667/edwin-g667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
